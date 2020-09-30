@@ -1,4 +1,5 @@
 === Distributor ===
+logr an amazing project
 Contributors: 10up
 Tags: content, distribution, syndication, management,
 Requires at least: 4.7
